@@ -1,0 +1,2 @@
+# chili-bot
+ignore
