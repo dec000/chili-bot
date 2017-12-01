@@ -20,7 +20,7 @@ case 'chili!dance':
   break;
 
       // chili!help
-      case 'ping':
+      case 'chili!help':
       bot.sendMessage({
            to: channelID,
            message: 'chili!dance, chili!Hi, chili!love, chili!heart'
@@ -28,7 +28,7 @@ case 'chili!dance':
  break;
 
      // chili!love
-     case 'ping':
+     case 'chili!love':
      bot.sendMessage({
           to: channelID,
           message: ':heart: :hot_pepper: :heart:'
@@ -36,7 +36,7 @@ case 'chili!dance':
 break;
 
     // chili!heart
-    case 'ping':
+    case 'chili!heart':
     bot.sendMessage({
          to: channelID,
          message: ':ChiliNut: + :Cappy: = :ChiliNut: :heart: :BananaNutCream:'
